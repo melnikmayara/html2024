@@ -1,17 +1,18 @@
 header{
  margin: 40px;
- background-color: chocolate;
+ background-color: rgb(238, 114, 238);
 text-size-adjust: 80px;
 justify-content: center;
-
-
-
-
-
 
 }
 
 body{
-    background-color: lightcoral;
+    background-color: rgb(255, 0, 0);
     color: rgb(151, 0, 0);
+}
+
+section{
+    background-color: crimson;
+    margin: 60px;
+    display: flex;
 }
