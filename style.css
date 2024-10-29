@@ -1,3 +1,16 @@
+header{
+ margin: 40px;
+ background-color: chocolate;
+text-size-adjust: 80px;
+justify-content: center;
+
+
+
+
+
+
+}
+
 body{
     background-color: lightcoral;
     color: rgb(151, 0, 0);
