@@ -1,18 +1,19 @@
 header{
  margin: 40px;
- background-color: rgb(238, 114, 238);
+ background-color: #61F58D;
 text-size-adjust: 80px;
 justify-content: center;
+border: solid 3px #4AAECC ;
 
 }
 
 body{
-    background-color: rgb(151, 231, 127);
+    background-color: #60DC88;
     color: rgb(0, 0, 0);
 }
 
 section{
-    background-color: rgb(218, 121, 140);
+    background-color: #E080D2;
     margin: 60px;
     display: flex;
     padding:left ;
