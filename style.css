@@ -8,11 +8,12 @@ justify-content: center;
 
 body{
     background-color: rgb(151, 231, 127);
-    color: rgb(48, 116, 116);
+    color: rgb(41, 122, 122);
 }
 
 section{
     background-color: rgb(218, 121, 140);
     margin: 60px;
     display: flex;
+    padding:left ;
 }
