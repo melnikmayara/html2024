@@ -1,9 +1,12 @@
+
+
+
+
 header{
  margin: 40px;
  background-color: #61F58D;
 text-size-adjust: 80px;
 justify-content: center;
-<<<<<<< HEAD
 border bottom: ;: solid 3px #4AAECC ;
 padding: 25px; 
 }
@@ -11,11 +14,17 @@ body{
     background-color: #60DC88;
     color: rgb(0, 0, 0);
 }
-
 section{
     background-color: #E080D2;
     margin: 60px;
-    display: flex;
-    padding:left ;
-
+display: flex;
+justify-content: center;
+}
+.primeira chamada [
+margin-rigth: 5%;
+]
+.sequencia de videos{
+    display:flex ;
+overflow-x: auto;
+gape: 10px ;
 }
